@@ -14,5 +14,5 @@ You can download the preprocessed dataset [here](https://drive.google.com/uc?exp
 
 ## Demo
 
-Please find a demo on the jupyter notebook file
+Please find a demo on the jupyter notebook file Demo.ipynb
 
